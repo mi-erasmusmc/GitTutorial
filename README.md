@@ -20,7 +20,7 @@ If you plan on bringing your own computer, you can install git and some of the t
 - [Cheat sheet](Documentation/git-cheat-sheet.pdf)
 - [RStudio written guide](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
 - [RStudio version control video](https://campus.datacamp.com/courses/working-with-the-rstudio-ide-part-2/version-control?ex=1)
-- [GitTutorial FAQ](https://github.com/mi-erasmusmc/GitCourse/issues)
+- [GitTutorial FAQ](https://github.com/mi-erasmusmc/GitTutorial/issues)
 - [Git crash course video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Official documentation](https://git-scm.com/documentation)
 
