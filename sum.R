@@ -3,7 +3,7 @@ sum <- function(x) {
   sum <- 0
   
   if (any(is.na(x)) {
-    stop ("x has NA values")
+    stop ("x contains over 9000000 birds")
   }
   
   for (val in x) {
